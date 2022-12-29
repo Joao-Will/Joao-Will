@@ -24,7 +24,7 @@
 -->
 <!-- Outras informações -->
   <div style="display_bold: inline_block"><br>
- <h2 align="left"><b>═══════════════════════════╣Linguangens & Ferramentas╠══════════════════════════</b></h2>
+ <h2 align="left"><b>══════════════════╣Linguangens & Ferramentas╠══════════════════</b></h2>
 
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="75" height="75"/> </a> 
@@ -36,7 +36,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> </p>
 </div>
 
-<div align="left">    
+<div align="center">    
     <img align="right" alt="Jv-pic" height="100" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61891017?v=4">
 </div>
   
