@@ -2,15 +2,10 @@
    <img align="right" width="300" height="300" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
    
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
-  <div align=center>
+  <div align="left">
   <a href="https://github.com/JoaoVWill" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" />
-  </div>
-
-   <br><br><br><br><br><br><br><br>
-  
-  <div align=center>
+      <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
+      <img width=300 src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" />
       <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true"/>
     </a>
 
