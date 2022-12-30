@@ -8,7 +8,9 @@
       <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true"/>
     </a>
 
-![Snake animation](https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg)
+<img width="1000" height="200" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
+
+<!-- ![Snake animation](https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg) -->
 
   </div>
 
