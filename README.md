@@ -4,6 +4,9 @@
 <a href="https://github.com/JoaoVWill">
    <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&icon_color=00BFFF&border_color=000000&theme=radical&include_all_commits=true&count_private=true&border_radius=20px"/>
    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&layout=compact&langs_count=7&theme=radical&icon_color=00BFFF&border_color=000000&border_radius=20px"/>
+   
+   <img align="right" alt="Jv-pic" height="150" style="border-radius:75px;" src="https://avatars.githubusercontent.com/u/61891017?v=4">
+   
    <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200px"src="https://github-profile-trophy.vercel.app/?username=joaovwill" alt="joaovwill" /></a> </p>
 </div>
 
@@ -36,12 +39,11 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> </p>
 </div>
 
-<div align="center">    
-    <img align="right" alt="Jv-pic" height="100" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61891017?v=4">
+<div align="center">
+    <img align="right" width="200" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" >
 </div>
-  
-  ##
-  
+
+
   ![Snake animation](https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg)
   <!-- 
   
