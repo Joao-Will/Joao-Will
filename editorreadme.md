@@ -2,7 +2,7 @@
    <img align="right" width="300" height="300" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
    
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
-  <div align="left">
+  <div align="center">
   <a href="https://github.com/JoaoVWill" title="Go to Source">
       <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
       <img width=300 src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" />
