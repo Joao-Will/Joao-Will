@@ -40,6 +40,6 @@
    <a href="https://twitter.com/TheBigLittleWil" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Meu Twitter" /></a>
 </div>
 
-<div align="center">
-    <img align="right" width="200" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" >
-</div>
+<br><br>
+    <img align="left" width="200" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+   <img align="right" width="200" height="200" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
