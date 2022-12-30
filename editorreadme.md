@@ -1,5 +1,4 @@
    <b><h1>Olá 👋 eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
-   <img align="right" width="300" height="300" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
    
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
   <div align="center">
