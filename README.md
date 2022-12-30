@@ -47,7 +47,7 @@
   ![Snake animation](https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg)
   <!-- 
   
-   **Backup de codigos e informações futuras:**
+   Backup de codigos e informações futuras:
 
    <img align="center" alt="Jv-Debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
    <img align="center" alt="Jv-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
