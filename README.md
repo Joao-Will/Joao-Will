@@ -27,7 +27,7 @@
 -->
 <!-- Outras informações -->
   <div style="display_bold: inline_block"><br>
- <h2 align="left"><b>══════════════════╣Linguangens & Ferramentas╠══════════════════</b></h2>
+ <h2 align="center"><b>═════════════╣Linguangens & Ferramentas╠═════════════</b></h2>
 
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="75" height="75"/> </a> 
