@@ -2,8 +2,6 @@
 
 <div align="left">
 
-   <img align="right" width="250" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/xGdvlOVSWaDvi/giphy.gif">
-<a href="https://github.com/JoaoVWill">
    <img height= "160px" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&icon_color=00BFFF&border_color=000000&theme=radical&include_all_commits=true&count_private=true&border_radius=20px"/>
    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&layout=compact&langs_count=7&theme=radical&icon_color=00BFFF&border_color=000000&border_radius=20px"/>
    
@@ -46,9 +44,7 @@
 
   ![Snake animation](https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg)
   <!-- 
-  
    Backup de codigos e informações futuras:
-
    <img align="center" alt="Jv-Debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
    <img align="center" alt="Jv-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Jv-Amazon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
