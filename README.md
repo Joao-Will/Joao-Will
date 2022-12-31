@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" alt="Coder GIF" width="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
