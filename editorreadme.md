@@ -10,8 +10,6 @@
 
 <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
 
-<!-- ![Snake animation](https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg) -->
-
   </div>
 
 <hr>
