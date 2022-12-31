@@ -7,7 +7,7 @@
       <img width=450 src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" />
       <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true"/>
     </a>
-
+   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="200" height="200">
    <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
 
   </div>
