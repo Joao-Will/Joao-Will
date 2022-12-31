@@ -1,14 +1,15 @@
    <b><h1>Olá 👋 eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
    
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
-<div align="center">
+  <div align="left">
   <a href="https://github.com/JoaoVWill" title="Go to Source">
-      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" align="left" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" align="left" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" align="left" />
+      <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
+      <img width=500 src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" />
+      <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true"/>
     </a>
-
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="200" height="200">
 <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
+
   </div>
 
 <hr>
