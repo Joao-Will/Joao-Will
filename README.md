@@ -2,7 +2,6 @@
 
 <div align="center">
 <img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" alt="Coder GIF" width="400">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
@@ -50,6 +49,7 @@
 </div>
 <!--  
   Para Futuras Informações 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
    <img align="center" alt="Jv-Debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
    <img align="center" alt="Jv-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Jv-Amazon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
