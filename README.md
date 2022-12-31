@@ -1,5 +1,8 @@
-   <b><h1>Olá 👋 eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
-   <p><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="left" width="50" height="50"></p>
+   <b><h1>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
+
+<div align="center">
+<img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" alt="Coder GIF" width="400">
+</div>
 
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
 <div align="center">
@@ -39,11 +42,13 @@
 </div>
 
 <br><br>
+
+<div>
    <img align="right" width="200" height="200" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
-  <!-- 
-  
-  Para Futuras Informações
-   
+   <img align="left" width="200" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+</div>
+<!--  
+  Para Futuras Informações 
    <img align="center" alt="Jv-Debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
    <img align="center" alt="Jv-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Jv-Amazon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
