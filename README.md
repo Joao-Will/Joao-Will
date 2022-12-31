@@ -1,6 +1,6 @@
    <b><h1>Olá 👋 eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
-   <p><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="left" width="100" height="100"></p>
-   
+   <p><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="left" width="50" height="50"></p>
+
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
 <div align="center">
    <a href="https://github.com/JoaoVWill" title="Status JoaoVWill">
