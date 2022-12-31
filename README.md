@@ -1,4 +1,5 @@
    <b><h1>Olá 👋 eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
+   <p><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="left" width="100" height="100"></p>
    
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
 <div align="center">
@@ -8,7 +9,6 @@
       <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
    </a>
 <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="left" width="100" height="100">
 </div>
 
 <hr>
