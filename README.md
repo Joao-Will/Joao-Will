@@ -2,14 +2,13 @@
    
 <h2 align="center"><b>⚡ Status ⚡</b></h2>
 <div align="center">
-  <a href="https://github.com/JoaoVWill" title="Go to Source">
-      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" align="left" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" align="left" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" align="left" />
-    </a>
-
+   <a href="https://github.com/JoaoVWill" title="Status JoaoVWill">
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
+   </a>
 <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
-  </div>
+</div>
 
 <hr>
 
