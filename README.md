@@ -8,7 +8,6 @@
 <img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" title="Hello World" width="400">
 </div> -->
 
-<h2 align="center"><b>⚡ Status ⚡</b></h2>
 <div align="center">
    <a href="https://github.com/JoaoVWill" title="Status JoaoVWill">
       <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
