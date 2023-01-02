@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd428e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+V.+Will;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd428e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+V.+Will;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- <b><h1>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
 
@@ -20,7 +20,7 @@
 
 <hr>
 
-## **👨‍💻 Languages and Tools 👨‍💻**
+### **👨‍💻 Languages and Tools 👨‍💻**
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75" title="Docker" target="_blank">
@@ -37,7 +37,7 @@
 
 <hr>
 
-## **📱 My Social Networks 📱**
+### **📱 My Social Networks 📱**
 
 <div align="center">
    <a href="https://www.instagram.com/_ojoaozinhowill_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Meu Instagram" /></a>
@@ -46,10 +46,10 @@
    <a href="https://twitter.com/TheBigLittleWil" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Meu Twitter" /></a>
 </div>
 
-<br><br>
+<br>
 
-<div>
-   <img align="center" width="300" height="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<div align="center">
+   <img width="300" height="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fd428e&height=120&section=footer"/>
