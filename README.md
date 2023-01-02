@@ -11,7 +11,7 @@
 <div align="left">
 <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
    <a href="https://github.com/JoaoVWill" title="Status JoaoVWill">
-      <img align="right" width="200" height="200" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
+      <img align="right" width="300" height="300" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
       <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
       <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
       <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
@@ -20,7 +20,7 @@
 
 <hr>
 
-<h2 align="center"><b>👨‍💻 Linguangens & Ferramentas 👨‍💻</b></h2>
+## **👨‍💻 Languages and Tools 👨‍💻**
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75" title="Docker" target="_blank">
@@ -37,7 +37,7 @@
 
 <hr>
 
-<h2 align="center"><b> 📱 Minhas Redes 📱 </b></h2>
+## **📱 My Social Networks 📱**
 
 <div align="center">
    <a href="https://www.instagram.com/_ojoaozinhowill_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Meu Instagram" /></a>
@@ -49,8 +49,7 @@
 <br><br>
 
 <div>
-   <img align="right" width="200" height="200" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
-   <img align="left" width="200" height="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+   <img align="center" width="300" height="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
