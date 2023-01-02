@@ -10,11 +10,11 @@
 
 <div align="left">
 <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
-   <a href="https://github.com/JoaoVWill" title="Status JoaoVWill">
+   <a href="https://github.com/JoaoVWill" title="Inicio">
       <img align="right" width="300" height="300" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
-      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
+      <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" title="Visão Geral" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" title="Status" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" title="Linguagens" />
    </a>
 </div>
 
