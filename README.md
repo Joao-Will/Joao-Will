@@ -8,8 +8,9 @@
 <img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" title="Hello World" width="400">
 </div> -->
 
-<div align="center">
+<div align="left">
    <a href="https://github.com/JoaoVWill" title="Status JoaoVWill">
+      <img align="right" width="200" height="200" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
       <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" alt="JoaoVWill" />
       <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
       <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" alt="JoaoVWill" />
