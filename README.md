@@ -13,8 +13,8 @@
    <a href="https://github.com/JoaoVWill" title="Inicio">
       <img align="right" width="300" height="300" style="" src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Readme.png?raw=true">
       <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVWill&theme=radical&border_radius=20px&hide_border=true" title="Visão Geral" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" title="Status" />
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" title="Linguagens" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api?user=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" title="Status" />
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?user=JoaoVWill&show_icons=true&theme=radical&border_radius=20px&border_color=61dafb&hide_border=true" title="Linguagens" />
    </a>
 </div>
 
