@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fd428e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+V.+Will;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!-- <b><h1>Olá <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> eu sou o João Vitor - Will <img src="https://github.com/JoaoVWill/JoaoVWill/blob/main/Emojis/Hello.png?raw=true" width="50"></b></h1>
-
-<div align="center">
-<img src="https://polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif" title="Hello World" width="400">
-</div> -->
-
 <div align="left">
 <img title="cobrinha_do_commit" src="https://github.com/JoaoVWill/JoaoVWill/blob/output/github-contribution-grid-snake.svg">
    <a href="https://github.com/JoaoVWill" title="Inicio">
